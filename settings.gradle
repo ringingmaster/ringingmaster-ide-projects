@@ -1,0 +1,4 @@
+rootProject.name='ringingmaster-ide-projects'
+
+includeBuild '../ringingmaster-util'
+includeBuild '../ringingmaster-persist'
