@@ -1,8 +1,7 @@
+.gradle
+out
 build
 .idea
-.gradle
 gradlew*
 gradle
-
-/src/generated/
-/src/test/dump/
+*.iml
