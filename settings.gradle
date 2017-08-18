@@ -2,3 +2,4 @@ rootProject.name='ringingmaster-ide-projects'
 
 includeBuild '../ringingmaster-util'
 includeBuild '../ringingmaster-persist'
+includeBuild '../ringingmaster-engine'
