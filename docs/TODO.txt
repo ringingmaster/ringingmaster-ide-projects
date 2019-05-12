@@ -3,3 +3,4 @@ Problems where changes to the properties are not being updated with the parsing 
  When adding method that is not valid (bell count) need to prevent it becomming active.
 
 Give more context to the tooltips when in spliced.
+
